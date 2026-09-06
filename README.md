@@ -200,9 +200,10 @@ including:
 ## 📫 Let's Connect
 
 <p>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/hailemichael-misganew/)">
+  <a href="https://www.linkedin.com/in/hailemichael-misganew">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+ <br>
   <a href="hailyemisganew@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
