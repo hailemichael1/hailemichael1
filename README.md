@@ -21,7 +21,7 @@ improving my skills through building and working on production-oriented projects
 
 - **Team Leader & Mentor:** Led and mentored **20+ developers/students**,
   helping team members improve their programming skills and successfully
-  complete software projects duiring development class 2024.
+  complete software projects duiring development class 2024 Evangadi.
 
 - **Moodle / LMS Development:** Worked on Moodle customization and development,
   including **school management, role-based access, LMS configuration,
@@ -73,7 +73,7 @@ improving my skills through building and working on production-oriented projects
 </p>
 
 ---
-
+<!--
 ## 💼 Professional Experience
 
 ### Full Stack Developer — Prodigy InfoTech
@@ -112,7 +112,7 @@ Focused on:
 - Problem solving and technical mentoring
 
 ---
-
+-->
 <!--
 ## 🚀 Featured Projects
 
